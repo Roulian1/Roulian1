@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[photo de groupe](/Assets/wilson-teampicture.jpg)
+![photo de groupe](/Assets/wilson-teampicture.jpg)
 
 <!---
 Roulian1/Roulian1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
