@@ -64,6 +64,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ### 🔥 Recent GitHub Activity -->
 <!--START_SECTION:activity-->
-
+1. ❗️ Closed issue [#1](https://github.com/Roulian1/weather-app/issues/1) in [Julien.E/weather-app](https://github.com/Roulian1/weather-app)
+2. 🗣 Commented on [#1](https://github.com/Roulian1/weather-app/issues/1) in [Julien.E/weather-app](https://github.com/Roulian1/weather-app)
 <!--END_SECTION:activity-->
 
