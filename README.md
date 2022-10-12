@@ -2,14 +2,18 @@
 Roulian1/Roulian1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Julien Elinckx/Junior Web Developper
+---
 - 👋 Hi, I’m Julien Elinckx
-- 👀 I’m interested in coding (I know it's very general)
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning to be a junior web developper @BeCode.org
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [mon adresse mail] (https://www.julienelinckx@hotmail.com)
+- 💞️ I’m looking to collaborate on ...(still to define, but I would be more interested with the backend)
+- 📫 How to reach me on [hotmail](https://www.julienelinckx@hotmail.com)
 
+### My formidable team at Becode:
 ![photo de groupe](./asset/wilson-teampicture%20(1).jpg)
 
+---
 ### Connect with me:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/julien-elinckx/#gh-light-mode-only)
@@ -20,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
+---
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -42,6 +47,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
+---
 ### My daily routine :
 
 ```mermaid
@@ -50,7 +56,7 @@ You can click the Preview link to take a look at your changes.
       Eat-->Sleep;
       Sleep-->Code;
 ```
-
+---
 ### ⭐ GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roulian1&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
