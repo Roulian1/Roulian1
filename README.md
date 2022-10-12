@@ -3,13 +3,14 @@ Roulian1/Roulian1 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 # Julien Elinckx/Junior Web Developper
----
+
 - 👋 Hi, I’m Julien Elinckx
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning to be a junior web developper @BeCode.org
 - 💞️ I’m looking to collaborate on ...(still to define, but I would be more interested with the backend)
 - 📫 How to reach me on [hotmail](https://www.julienelinckx@hotmail.com)
 
+---
 ### My formidable team at Becode:
 ![photo de groupe](./asset/wilson-teampicture%20(1).jpg)
 
@@ -61,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roulian1&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔥 Recent GitHub Activity
+<!-- ### 🔥 Recent GitHub Activity -->
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
