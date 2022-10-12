@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roulian1&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ### 🔥 Recent GitHub Activity -->
+### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#1](https://github.com/Roulian1/weather-app/issues/1) in [Julien.E/weather-app](https://github.com/Roulian1/weather-app)
 2. 🗣 Commented on [#1](https://github.com/Roulian1/weather-app/issues/1) in [Julien.E/weather-app](https://github.com/Roulian1/weather-app)
