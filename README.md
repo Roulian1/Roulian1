@@ -2,7 +2,7 @@
 Roulian1/Roulian1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Julien Elinckx/Junior Web Developper
+# Julien Elinckx/Junior Web Developer
 
 - 👋 Hi, I’m Julien Elinckx
 - 👀 I’m interested in coding 
